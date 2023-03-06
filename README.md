@@ -10,7 +10,7 @@
 
 <p  align="left">  <a  href="https://twitter.com/Adityakrjha9577"  target="blank"><img  src="https://img.shields.io/twitter/follow/aditya?logo=twitter&style=for-the-badge"  alt="aditya"  /></a>  </p>
 
-- 🔭 I 'm ** Frontend web developer**
+- 🔭 I 'm **Frontend web developer**
 
 - 🌱 I’m currently learning **Node.js**
 
