@@ -1,4 +1,4 @@
-[![MasterHead](https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/1154083/react-context-api-4929b3703a1a7082d99b53eb1bbfc31f.png)](https://rishavchanda.io)
+[![MasterHead](https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/1154083/react-context-api-4929b3703a1a7082d99b53eb1bbfc31f.png)](https://adityakrjha112.github.io/)
 
 <h1  align="center">Hi 👋, I'm Aditya Jha</h1>
 
