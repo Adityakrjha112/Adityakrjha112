@@ -1,10 +1,10 @@
-[![MasterHead](https://camo.githubusercontent.com/044d219b987b706f28dabd9346ee8d0ee48d0dc36bb914c85786d40dd151dba4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966)](https://adityakrjha112.github.io/)
+[![MasterHead](https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/1154083/react-context-api-4929b3703a1a7082d99b53eb1bbfc31f.png)](https://adityakrjha112.github.io/)
 
 <h1  align="center">Hi 👋, I'm Aditya Jha</h1>
 
 <h3  align="center">A passionate frontend developer from India</h3>
 
-<img  align="right"  alt="Coding"  width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img  align="right"  alt="Coding"  width="400"  src="https://camo.githubusercontent.com/044d219b987b706f28dabd9346ee8d0ee48d0dc36bb914c85786d40dd151dba4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966">
 
 <p  align="left">  <img  src="https://komarev.com/ghpvc/?username=rat9910&label=Profile%20views&color=0e75b6&style=flat"  alt="aditya"  />  </p>
 
